@@ -41,7 +41,7 @@ The wrapper hosts the same web UI. It connects it to CoreMIDI and saves the libr
 
 **Option B: Xcode on a Mac.** Open `ios/AlphaPad.swiftpm` in Xcode, choose your iPad, and run.
 
-**Option C: a Web MIDI browser.** Serve the `web/` folder somewhere (the Pages workflow publishes it once Pages is enabled). Then open it in an iOS browser app that adds Web MIDI. Desktop Chrome and Edge work directly.
+**Option C: a Web MIDI browser.** Open **https://jakehandy.github.io/alpha-ipad/** in an iOS browser app that adds Web MIDI. Desktop Chrome and Edge work directly. The Pages workflow publishes `web/` there on every push to `main`.
 
 ## Hooking up the synth
 
